@@ -1,6 +1,5 @@
 .sass-cache/
 *.css.map
 .idea/
-lib/
 bower_components/
 node_modules/
